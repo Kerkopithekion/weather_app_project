@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'ca486da295a55ab8f116537d693cd5d0'
+api_key = '' # insert own api key!
 geo_base_url = f"http://api.openweathermap.org/geo/1.0/direct"
 # hardcoded to give the first answer if multiple options
 weather_base_url = "https://api.openweathermap.org/data/2.5/weather"
